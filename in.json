@@ -1,1 +1,4 @@
-[{"price":0,"name":"crow","type":"bird"},{"price":50,"name":"mango","type":"fruit"},{"price":50,"name":"apple","type":"fruit"}]
+[{"price":10,"name":"crow","type":"bird"},{"price":50,"name":"mango","type":"fruit"},
+{"price":50,"name":"apple","type":"fruit"},{"price":20,"name":"parrot","type":"bird"},
+{"price":40,"name":"harry_potter1","type":"book"},{"price":50,"name":"banana","type":"fruit"},
+{"price":40,"name":"harry_potter2","type":"book"}]
